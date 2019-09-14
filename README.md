@@ -10,7 +10,10 @@ las tecnologias que estoy usando
 * php
 * java
 
-![hola](https://i.redd.it/erdjqzlmlv111.png)
+![hola](https://i.redd.it/erdjqzlmlv111.png
+
+#lista de tarea
+[x]Nombre de la tarea
 
 
 You can use the [editor on GitHub](https://github.com/miguel2701/linceHacks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
