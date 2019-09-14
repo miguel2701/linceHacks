@@ -1,5 +1,18 @@
 ## Welcome to GitHub Pages
 
+
+# EstudioEncuesta
+mediante encuestas vas a poder estudiar, un usuario sube una encuesta y tu respondes de esta forma
+##verticales
+Educacion para todos, porque cualquiera meterse a estudiar
+###
+las tecnologias que estoy usando
+* php
+* java
+
+![hola](https://i.redd.it/erdjqzlmlv111.png)
+
+
 You can use the [editor on GitHub](https://github.com/miguel2701/linceHacks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
